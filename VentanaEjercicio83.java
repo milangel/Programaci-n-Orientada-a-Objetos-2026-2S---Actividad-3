@@ -3,7 +3,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Ejercicio 8.3 - Gestión de Eventos
+ * Ejercicio 8.3
  */
 public class VentanaEjercicio83 extends JFrame implements ActionListener {
 
@@ -12,7 +12,7 @@ public class VentanaEjercicio83 extends JFrame implements ActionListener {
     private JLabel labelMensaje;
 
     public VentanaEjercicio83() {
-        setTitle("Ejercicio 8.3 - Gestión de Eventos");
+        setTitle("Ejercicio 8.3");
         setSize(400, 220);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(null);
